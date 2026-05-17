@@ -81,9 +81,11 @@ Currently exploring research at the intersection of deep learning and signal pro
 
 <div align="center">
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamroy06&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Soham's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sohamroy06&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy06&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sohamroy06&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sohamroy06&theme=default&hide_border=true)
 
 </div>
 
