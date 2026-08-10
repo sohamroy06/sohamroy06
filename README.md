@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0078D4&height=220&section=header&text=Soham%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20actually%20work%20—%20ML,%20Quant,%20Full-Stack%20%26%20IoT&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0078D4&height=220&section=header&text=Soham%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20·%20Astrophysics%20Data%20·%20MLOps&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6F42C1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UEM+Jaipur+%7C+CGPA+9.14;IIT+BHU+Technex+Winner+%F0%9F%8F%86;ML+Pipelines+%7C+Quant+Systems+%7C+Full-Stack+Apps;Currently+exploring+Deep+Learning+%2B+Signal+Processing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6F42C1&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Astrophysics+Data+%7C+MLOps;B.Tech+CSE+%40+UEM+Jaipur+%7C+CGPA+9.14;IIT+BHU+Technex+Winner+%F0%9F%8F%86;ML+Pipelines+%7C+Quant+Systems+%7C+Full-Stack+Apps;Currently+exploring+Deep+Learning+%2B+Signal+Processing" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 [![Location](https://img.shields.io/badge/Location-Bardhaman%2C%20West%20Bengal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ![Internships](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge)
-![Roles](https://img.shields.io/badge/Roles-Research%20·%20SDE%20·%20ML%20·%20Quant-6f42c1?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Roles-ML%20Engineer%20·%20MLOps%20·%20Research%20·%20Quant-6f42c1?style=for-the-badge)
 
 <img src="https://komarev.com/ghpvc/?username=sohamroy06&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
 
@@ -26,19 +26,21 @@
 
 ```yaml
 name: "Soham Roy"
-role: "CSE Undergrad · 3rd Year"
+tagline: "ML Engineer · Astrophysics Data · MLOps"
+role: "CSE Undergrad · 2nd Year"
 university: "UEM Jaipur"
 cgpa: 9.14
 currently_exploring: ["Diffusion Models", "Signal Processing"]
-interests: ["Quant Finance", "Geospatial ML", "IoT Systems"]
+domains: ["Astrophysics Data", "Quant Finance", "Geospatial ML", "MLOps"]
 clubs: ["UEM Aeromodelling Club"]
 achievement: "🏆 IIT BHU Technex Winner"
 location: "Bardhaman, West Bengal, India ✈️"
 ```
 
-- 🔭 I build across the entire stack — ML pipelines, REST APIs, embedded firmware, and everything in between
+- 🔭 I work across ML pipelines, MLOps tooling, and applying ML to **astrophysics data**
+- 🌌 Also active in **quant finance** and **geospatial ML** — full-stack tools to make research usable
 - 🌱 Currently deep-diving into **diffusion models** and **signal processing** research
-- 💬 Ask me about ML systems, quant strategies, or IoT prototypes
+- 💬 Ask me about ML systems, MLOps pipelines, or applying ML to scientific data
 - ⚡ Fun fact: I like taking problems apart until they make sense from first principles
 
 <br/>
@@ -136,6 +138,8 @@ location: "Bardhaman, West Bengal, India ✈️"
 <div align="center">
 
 ![ML](https://img.shields.io/badge/-Machine%20Learning-6f42c1?style=flat-square)
+![Astro](https://img.shields.io/badge/-Astrophysics%20Data-1f2937?style=flat-square)
+![MLOps](https://img.shields.io/badge/-MLOps-0078D4?style=flat-square)
 ![Quant](https://img.shields.io/badge/-Quant%20Finance-0078D4?style=flat-square)
 ![FullStack](https://img.shields.io/badge/-Full--Stack%20Dev-2ea44f?style=flat-square)
 ![Geo](https://img.shields.io/badge/-Geospatial%20ML-f0a500?style=flat-square)
