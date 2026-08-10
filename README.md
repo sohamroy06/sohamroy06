@@ -1,105 +1,158 @@
-<!-- Header -->
+<!-- Animated Header Banner -->
 <div align="center">
 
-# Soham Roy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0078D4&height=220&section=header&text=Soham%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20actually%20work%20—%20ML,%20Quant,%20Full-Stack%20%26%20IoT&descAlignY=55&descSize=18" width="100%"/>
 
-**B.Tech CSE · UEM Jaipur · CGPA 9.14 · 2nd Year**
+<br/>
 
-CS undergrad passionate about building things that work — ML pipelines, quant systems, full-stack apps, and IoT devices.
-I like going deep on problems and shipping real results.
-Currently exploring research at the intersection of deep learning and signal processing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6F42C1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UEM+Jaipur+%7C+CGPA+9.14;IIT+BHU+Technex+Winner+%F0%9F%8F%86;ML+Pipelines+%7C+Quant+Systems+%7C+Full-Stack+Apps;Currently+exploring+Deep+Learning+%2B+Signal+Processing" alt="Typing SVG" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-sohamroy20sr%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohamroy20sr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8942052225-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918942052225)
-![Location](https://img.shields.io/badge/Location-Bardhaman%2C%20West%20Bengal-0078D4?style=flat&logo=googlemaps&logoColor=white)
+<br/><br/>
 
-![Internships](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat)
-![Roles](https://img.shields.io/badge/Roles-Research%20·%20SDE%20·%20ML%20·%20Quant-6f42c1?style=flat)
-![Trophy](https://img.shields.io/badge/🏆-IIT%20BHU%20Technex%20Winner-f0a500?style=flat)
+[![Gmail](https://img.shields.io/badge/Gmail-sohamroy20sr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamroy20sr@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--8942052225-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918942052225)
+[![Location](https://img.shields.io/badge/Location-Bardhaman%2C%20West%20Bengal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+![Internships](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Roles-Research%20·%20SDE%20·%20ML%20·%20Quant-6f42c1?style=for-the-badge)
+
+<img src="https://komarev.com/ghpvc/?username=sohamroy06&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-- 🎓 2nd year CSE undergrad at **UEM Jaipur** (CGPA: **9.14**)
-- 🔭 Currently exploring **diffusion models + signal processing**
-- 🛠️ I build across the stack — from ML pipelines to REST APIs to embedded firmware
-- 📊 Interested in **quant finance**, **geospatial ML**, and **IoT systems**
-- ✈️ Part of the **UEM Aeromodelling Club**
-- 📍 Based in **Bardhaman, West Bengal, India**
+```yaml
+name: "Soham Roy"
+role: "CSE Undergrad · 3rd Year"
+university: "UEM Jaipur"
+cgpa: 9.14
+currently_exploring: ["Diffusion Models", "Signal Processing"]
+interests: ["Quant Finance", "Geospatial ML", "IoT Systems"]
+clubs: ["UEM Aeromodelling Club"]
+achievement: "🏆 IIT BHU Technex Winner"
+location: "Bardhaman, West Bengal, India ✈️"
+```
 
----
+- 🔭 I build across the entire stack — ML pipelines, REST APIs, embedded firmware, and everything in between
+- 🌱 Currently deep-diving into **diffusion models** and **signal processing** research
+- 💬 Ask me about ML systems, quant strategies, or IoT prototypes
+- ⚡ Fun fact: I like taking problems apart until they make sense from first principles
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### ML / AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=boosted&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### Hardware / IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Soham's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sohamroy06&show_icons=true&theme=default&hide_border=true&count_private=true)
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sohamroy06&layout=compact&theme=default&hide_border=true&langs_count=8)
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sohamroy06&theme=default&hide_border=true)
+**Backend**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**ML / AI**
+<br/>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=boosted&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Hardware / IoT**
+<br/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Tools & DevOps**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
----
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sohamroy06&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=6f42c1&icon_color=0078D4" width="49%"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sohamroy06&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6f42c1" width="43%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sohamroy06&theme=radical&hide_border=true&background=0D1117&ring=6F42C1&fire=0078D4" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamroy06&theme=react-dark&hide_border=true&bg_color=0D1117&color=6F42C1&line=0078D4&point=ffffff" width="90%"/>
+
+</div>
+
+> **Note:** The activity graph above requires enabling the [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) action or embed on your repo for full functionality — it'll populate automatically once your profile repo is public with recent commits.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sohamroy06/sohamroy06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
+
+</div>
+
+> To activate this animated snake, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `sohamroy06/sohamroy06` — it auto-generates and commits the SVG above on a schedule.
+
+<br/>
 
 ## 🌐 Interests
 
-`Machine Learning` &nbsp; `Quant Finance` &nbsp; `Full-Stack Dev` &nbsp; `Geospatial ML` &nbsp; `IoT Systems` &nbsp; `Research` &nbsp; `Aeromodelling`
+<div align="center">
 
----
+![ML](https://img.shields.io/badge/-Machine%20Learning-6f42c1?style=flat-square)
+![Quant](https://img.shields.io/badge/-Quant%20Finance-0078D4?style=flat-square)
+![FullStack](https://img.shields.io/badge/-Full--Stack%20Dev-2ea44f?style=flat-square)
+![Geo](https://img.shields.io/badge/-Geospatial%20ML-f0a500?style=flat-square)
+![IoT](https://img.shields.io/badge/-IoT%20Systems-D14836?style=flat-square)
+![Research](https://img.shields.io/badge/-Research-663399?style=flat-square)
+![Aero](https://img.shields.io/badge/-Aeromodelling-25D366?style=flat-square)
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6f42c1&height=120&section=footer"/>
 
 <div align="center">
 
 *Always open to interesting problems, collaborations, and internship opportunities.*
-**Let's build something.*
+**Let's build something.**
 
 </div>
